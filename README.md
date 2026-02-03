@@ -19,6 +19,6 @@ Features:
 Tech Stack Used:
 Python, SpeechRecognition, pyttsx3, Ollama, Phi-3 LLM, Offline AI
 
-SEtup: 
+Setup: 
 pip install -r requirements.txt
 python main.py
